@@ -1,0 +1,9 @@
+dataset.csv
+docker-compose.yaml
+logs/
+plugins/
+config/
+__pycache__/
+*.log
+.env
+dags/__pycache__/
