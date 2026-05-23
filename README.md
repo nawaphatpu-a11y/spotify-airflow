@@ -6,10 +6,10 @@ Schedules and monitors daily runs of extract, validate, transform, and load task
 ## Architecture diagram
 
 Airflow DAG
-└── Task 1: extract    → Read from S3
-└── Task 2: validate   → check data types
-└── Task 3: transform  → clean data
-└── Task 4: load       → save CSV
+- Task 1: extract    → Read from S3
+- Task 2: validate   → check data types
+- Task 3: transform  → clean data
+- Task 4: load       → save CSV
 
 ## Tech stack
 
