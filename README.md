@@ -22,8 +22,8 @@ Airflow DAG
 
 ## How to run
 
-1.Clone repo
-2.cp .env.example (.env) and put credentials
-3.docker-compose up
-4.python etl_spotify.py
-5.python load_to_postgres.py
+1. Clone repo
+2. cp .env.example (.env) and put credentials
+3. docker-compose up
+4. python etl_spotify.py
+5. python load_to_postgres.py
